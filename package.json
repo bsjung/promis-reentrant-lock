@@ -11,7 +11,7 @@
     "index.js",
     "index.d.ts"
   ],
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "tsc -p .",
     "test": "c8 --check-coverage --lines 100 tape -r ts-node/register/transpile-only ./index.spec.ts"
