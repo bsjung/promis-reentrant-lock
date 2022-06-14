@@ -1,5 +1,5 @@
 {
-  "name": "reentrant-lock",
+  "name": "promis-reentrant-lock",
   "version": "1.0.1",
   "description": "Lock a block of code to prevent concurrent execution",
   "keywords": [
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GiviMAD/PromiseReentrantLock.git"
+    "url": "git+https://github.com/bsjung/promis-reentrant-lock.git"
   },
-  "author": "Miguel Álvarez Díez",
+  "author": "Benjamin Jung",
   "license": "MIT",
   "devDependencies": {
     "@types/tape": "^4.13.2",
